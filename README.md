@@ -925,8 +925,8 @@ conversantmedia.com, 42094, RESELLER, 03113cd04947736d
 appnexus.com, 14416, RESELLER
 consumable.com, 2001454, RESELLER, aefcd3d2f45b5070
 #Unruly
-rhythmone.com, 3634565696, RESELLER, a670c89d4a324e47
-video.unrulymedia.com, 3634565696, RESELLER
+rhythmone.com, 3634565696, RESELLER, a670c89d4a324e47
+video.unrulymedia.com, 3634565696, RESELLER
 indexexchange.com, 182257, RESELLER
 appnexus.com, 6849, RESELLER
 rubiconproject.com, 15268, RESELLER
