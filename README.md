@@ -1,4 +1,4 @@
-#Updated 2.2.2023
+[#Updated 2.2.2023
 
 #Appodeal
 
@@ -1274,3 +1274,4 @@ pubnative.net, 1006576, RESELLER, d641df8625486a7b
 adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER
 axonix.com, 57264, RESELLER
 admanmedia.com, 43, RESELLER
+](https://drive.google.com/file/d/1XQZHdJqpfLOHC_24pPQmGlE73b3_yOvs/view)
